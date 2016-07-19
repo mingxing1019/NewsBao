@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">新闻宝</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="RSS1">http://news.163.com/special/00011K6L/rss_newstop.xml</string>
+    <string name="RSS2">http://news.163.com/special/00011K6L/rss_gn.xml</string>
+</resources>
